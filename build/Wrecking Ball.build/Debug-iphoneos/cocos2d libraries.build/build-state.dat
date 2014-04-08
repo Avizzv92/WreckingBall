@@ -1,0 +1,15 @@
+Tcocos2d libraries
+v7
+r0
+t316541305.722733
+cCheck dependencies
+
+N/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Debug-iphoneos/libcocos2d libraries.a
+c00000000000000000000000000000000
+t2
+s0
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies316541343#316541343#0(66"[BEROR]error: There is no SDK with the name or path 'iphoneos4.0'1(4@58"error: There is no SDK with the name or path 'iphoneos4.0'316541343#18446744073709551615#0#0(1@0"0(0#1#0"8609982144#0"0#
+

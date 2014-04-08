@@ -1,0 +1,1145 @@
+Tcocos2d libraries
+v7
+r0
+t316648870.296954
+cCheck dependencies
+cCompileC "build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/FontLabel.o" "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/FontLabel/FontLabel.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/FontLabelStringDrawing.o" "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/FontLabel/FontLabelStringDrawing.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/FontManager.o" "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/FontLabel/FontManager.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/ZFont.o" "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/FontLabel/ZFont.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CDataScanner.o" "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/TouchJSON/CDataScanner.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CDataScanner_Extensions.o" "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/TouchJSON/Extensions/CDataScanner_Extensions.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/NSCharacterSet_Extensions.o" "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/TouchJSON/Extensions/NSCharacterSet_Extensions.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/NSDictionary_JSONExtensions.o" "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/TouchJSON/Extensions/NSDictionary_JSONExtensions.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/NSScanner_Extensions.o" "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/TouchJSON/Extensions/NSScanner_Extensions.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CJSONDeserializer.o" "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/TouchJSON/JSON/CJSONDeserializer.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CJSONScanner.o" "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/TouchJSON/JSON/CJSONScanner.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CJSONSerializer.o" "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/TouchJSON/JSON/CJSONSerializer.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/ZAttributedString.o" "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/FontLabel/ZAttributedString.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CLScoreServerPost.o" "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/cocoslive/CLScoreServerPost.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CLScoreServerRequest.o" "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/cocoslive/CLScoreServerRequest.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/cocoslive.o" "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/cocoslive/cocoslive.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CDAudioManager.o" "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/CocosDenshion/CDAudioManager.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CocosDenshion.o" "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/CocosDenshion/CocosDenshion.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/SimpleAudioEngine.o" "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/CocosDenshion/SimpleAudioEngine.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/FontLabel.o" "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/FontLabel/FontLabel.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+cLibtool "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/libcocos2d libraries.a" normal armv6
+cCompileC "build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/FontLabelStringDrawing.o" "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/FontLabel/FontLabelStringDrawing.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/FontManager.o" "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/FontLabel/FontManager.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/ZFont.o" "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/FontLabel/ZFont.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/CDataScanner.o" "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/TouchJSON/CDataScanner.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/CDataScanner_Extensions.o" "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/TouchJSON/Extensions/CDataScanner_Extensions.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/NSCharacterSet_Extensions.o" "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/TouchJSON/Extensions/NSCharacterSet_Extensions.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/NSDictionary_JSONExtensions.o" "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/TouchJSON/Extensions/NSDictionary_JSONExtensions.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/NSScanner_Extensions.o" "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/TouchJSON/Extensions/NSScanner_Extensions.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/CJSONDeserializer.o" "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/TouchJSON/JSON/CJSONDeserializer.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/CJSONScanner.o" "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/TouchJSON/JSON/CJSONScanner.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/CJSONSerializer.o" "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/TouchJSON/JSON/CJSONSerializer.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/ZAttributedString.o" "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/FontLabel/ZAttributedString.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/CLScoreServerPost.o" "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/cocoslive/CLScoreServerPost.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/CLScoreServerRequest.o" "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/cocoslive/CLScoreServerRequest.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/cocoslive.o" "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/cocoslive/cocoslive.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/CDAudioManager.o" "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/CocosDenshion/CDAudioManager.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/CocosDenshion.o" "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/CocosDenshion/CocosDenshion.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/SimpleAudioEngine.o" "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/CocosDenshion/SimpleAudioEngine.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+cLibtool "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/libcocos2d libraries.a" normal armv7
+cCreateUniversalBinary "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Release-iphoneos/libcocos2d libraries.a" normal "armv6 armv7"
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk
+c000000004CC7DC9E0000000000000110
+t1288166558
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/AVFoundation.framework/AVFoundation
+c000000004CC11C42000000000020BF30
+t1287724098
+s2146096
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/AVFoundation.framework/Headers/AVFoundation.h
+c000000004CC11C240000000000000733
+t1287724068
+s1843
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
+c000000004CC10EF400000000003B8CB0
+t1287720692
+s3902640
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/AudioToolbox.framework/Headers/AudioToolbox.h
+c000000004CC10EB60000000000000A23
+t1287720630
+s2595
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/AudioToolbox.framework/Headers/ExtendedAudioFile.h
+c000000004CC10EB60000000000005E3B
+t1287720630
+s24123
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC10EF500000000003532B0
+t1287720693
+s3486384
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.h
+c000000004CC10DCA00000000000004FE
+t1287720394
+s1278
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC10F1C0000000000001466
+t1287720732
+s5222
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/OpenAL.framework/Headers/al.h
+c000000004CC10F3300000000000064FD
+t1287720755
+s25853
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/OpenAL.framework/Headers/alc.h
+c000000004CC10F330000000000001F45
+t1287720755
+s8005
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/OpenAL.framework/OpenAL
+c000000004CC10F3800000000000459B0
+t1287720760
+s285104
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/ES1/gl.h
+c000000004CC110BE0000000000009369
+t1287721150
+s37737
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+c000000004CC110CB000000000002C650
+t1287721163
+s181840
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c000000004CC1127D0000000000267530
+t1287721597
+s2520368
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC11AE60000000000000AA1
+t1287723750
+s2721
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/usr/include/CommonCrypto/CommonDigest.h
+c000000004CB3E44C0000000000002407
+t1286857804
+s9223
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/usr/include/math.h
+c000000004CB3E44400000000000004F1
+t1286857796
+s1265
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/usr/lib/libz.dylib
+c000000004CC105400000000000020FF0
+t1287718208
+s135152
+
+N/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Release-iphoneos/libcocos2d libraries.a
+t1294956070
+s1225808
+
+N/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CDAudioManager.o
+t1294956062
+s61272
+
+N/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CDataScanner.o
+t1294956056
+s24044
+
+N/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CDataScanner_Extensions.o
+t1294956056
+s10572
+
+N/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CJSONDeserializer.o
+t1294956057
+s13032
+
+N/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CJSONScanner.o
+t1294956058
+s30844
+
+N/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CJSONSerializer.o
+t1294956057
+s19492
+
+N/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CLScoreServerPost.o
+t1294956059
+s36628
+
+N/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CLScoreServerRequest.o
+t1294956060
+s24956
+
+N/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CocosDenshion.o
+t1294956062
+s64808
+
+N/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/FontLabel.o
+t1294956054
+s54576
+
+N/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/FontLabelStringDrawing.o
+t1294956055
+s71920
+
+N/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/FontManager.o
+t1294956055
+s20600
+
+N/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/NSCharacterSet_Extensions.o
+t1294956056
+s7448
+
+N/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/NSDictionary_JSONExtensions.o
+t1294956056
+s7656
+
+N/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/NSScanner_Extensions.o
+t1294956057
+s13616
+
+N/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/SimpleAudioEngine.o
+t1294956063
+s29428
+
+N/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/ZAttributedString.o
+t1294956060
+s79952
+
+N/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/ZFont.o
+t1294956056
+s27120
+
+N/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/cocos2d libraries.LinkFileList
+c000000004D2F76150000000000000F12
+t1294956053
+s3858
+
+N/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/cocoslive.o
+t1294956060
+s5368
+
+N/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/libcocos2d libraries.a
+t1294956063
+s612888
+
+N/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/CDAudioManager.o
+t1294956069
+s61276
+
+N/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/CDataScanner.o
+t1294956066
+s24056
+
+N/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/CDataScanner_Extensions.o
+t1294956066
+s10572
+
+N/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/CJSONDeserializer.o
+t1294956066
+s13036
+
+N/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/CJSONScanner.o
+t1294956067
+s30848
+
+N/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/CJSONSerializer.o
+t1294956067
+s19496
+
+N/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/CLScoreServerPost.o
+t1294956067
+s36628
+
+N/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/CLScoreServerRequest.o
+t1294956068
+s24956
+
+N/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/CocosDenshion.o
+t1294956069
+s64712
+
+N/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/FontLabel.o
+t1294956063
+s54560
+
+N/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/FontLabelStringDrawing.o
+t1294956065
+s71864
+
+N/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/FontManager.o
+t1294956064
+s20600
+
+N/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/NSCharacterSet_Extensions.o
+t1294956066
+s7448
+
+N/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/NSDictionary_JSONExtensions.o
+t1294956066
+s7656
+
+N/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/NSScanner_Extensions.o
+t1294956066
+s13616
+
+N/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/SimpleAudioEngine.o
+t1294956070
+s29488
+
+N/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/ZAttributedString.o
+t1294956068
+s80020
+
+N/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/ZFont.o
+t1294956065
+s27120
+
+N/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/cocos2d libraries.LinkFileList
+c000000004D2F76150000000000000F12
+t1294956053
+s3858
+
+N/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/cocoslive.o
+t1294956068
+s5368
+
+N/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/libcocos2d libraries.a
+t1294956070
+s612872
+
+N/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/cocos2d/CCConfiguration.h
+c000000004B703FD40000000000000425
+t1265647572
+s1061
+i<Foundation/Foundation.h>
+i<OpenGLES/ES1/gl.h>
+
+N/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/cocos2d/ccMacros.h
+c000000004B61F2D200000000000007E8
+t1264710354
+s2024
+i<math.h>
+
+N/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/CocosDenshion/CDAudioManager.h
+c000000004BA16BE60000000000002299
+t1268870118
+s8857
+i"CocosDenshion.h"
+i<AVFoundation/AVFoundation.h>
+
+N/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/CocosDenshion/CDAudioManager.m
+c000000004BA16BE6000000000000541E
+t1268870118
+s21534
+i"CDAudioManager.h"
+
+N/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/CocosDenshion/CDConfig.h
+c000000004BA16BE60000000000000A93
+t1268870118
+s2707
+
+N/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/CocosDenshion/CDOpenALSupport.h
+c000000004BA16BE60000000000002B71
+t1268870118
+s11121
+i<OpenAL/al.h>
+i<OpenAL/alc.h>
+i<AudioToolbox/AudioToolbox.h>
+i<AudioToolbox/ExtendedAudioFile.h>
+
+N/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/CocosDenshion/CocosDenshion.h
+c000000004BA16BE6000000000000209D
+t1268870118
+s8349
+i<UIKit/UIKit.h>
+i<OpenAL/al.h>
+i<OpenAL/alc.h>
+i<AudioToolbox/AudioToolbox.h>
+i"CDConfig.h"
+
+N/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/CocosDenshion/CocosDenshion.m
+c000000004BA16BE60000000000007174
+t1268870118
+s29044
+i"CocosDenshion.h"
+i"CDOpenALSupport.h"
+
+N/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/CocosDenshion/SimpleAudioEngine.h
+c000000004BA16BE60000000000000B96
+t1268870118
+s2966
+i"CDAudioManager.h"
+
+N/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/CocosDenshion/SimpleAudioEngine.m
+c000000004BA16BE60000000000001554
+t1268870118
+s5460
+i"SimpleAudioEngine.h"
+i<AVFoundation/AVFoundation.h>
+
+N/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/FontLabel/FontLabel.h
+c000000004BA16BE600000000000006FD
+t1268870118
+s1789
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/FontLabel/FontLabel.m
+c000000004BA16BE600000000000019F2
+t1268870118
+s6642
+i"FontLabel.h"
+i"FontManager.h"
+i"FontLabelStringDrawing.h"
+i"ZFont.h"
+
+N/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/FontLabel/FontLabelStringDrawing.h
+c000000004BA16BE60000000000000F44
+t1268870118
+s3908
+i<UIKit/UIKit.h>
+i"ZAttributedString.h"
+
+N/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/FontLabel/FontLabelStringDrawing.m
+c000000004BA16BE6000000000000840D
+t1268870118
+s33805
+i"FontLabelStringDrawing.h"
+i"ZFont.h"
+i"ZAttributedStringPrivate.h"
+
+N/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/FontLabel/FontManager.h
+c000000004BA16BE60000000000000CEB
+t1268870118
+s3307
+i<Foundation/Foundation.h>
+i<CoreGraphics/CoreGraphics.h>
+
+N/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/FontLabel/FontManager.m
+c000000004BA16BE60000000000000DCD
+t1268870118
+s3533
+i"FontManager.h"
+i"ZFont.h"
+i"CCConfiguration.h"
+
+N/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/FontLabel/ZAttributedString.h
+c000000004BA16BE60000000000000C27
+t1268870118
+s3111
+i<Foundation/Foundation.h>
+
+N/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/FontLabel/ZAttributedString.m
+c000000004BA16BE60000000000005576
+t1268870118
+s21878
+i"ZAttributedString.h"
+i"ZAttributedStringPrivate.h"
+
+N/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/FontLabel/ZAttributedStringPrivate.h
+c000000004BA16BE600000000000002D2
+t1268870118
+s722
+i<Foundation/Foundation.h>
+i"ZAttributedString.h"
+
+N/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/FontLabel/ZFont.h
+c000000004BA16BE60000000000000664
+t1268870118
+s1636
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/FontLabel/ZFont.m
+c000000004BA16BE60000000000001324
+t1268870118
+s4900
+i"ZFont.h"
+
+N/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/TouchJSON/CDataScanner.h
+c000000004BA16BE60000000000000946
+t1268870118
+s2374
+i<Foundation/Foundation.h>
+
+N/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/TouchJSON/CDataScanner.m
+c000000004BA16BE6000000000000165F
+t1268870118
+s5727
+i"CDataScanner.h"
+i"CDataScanner_Extensions.h"
+
+N/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/TouchJSON/Extensions/CDataScanner_Extensions.h
+c000000004BA16BE60000000000000598
+t1268870118
+s1432
+i"CDataScanner.h"
+
+N/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/TouchJSON/Extensions/CDataScanner_Extensions.m
+c000000004BA16BE600000000000009D4
+t1268870118
+s2516
+i"CDataScanner_Extensions.h"
+i"NSCharacterSet_Extensions.h"
+
+N/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/TouchJSON/Extensions/NSCharacterSet_Extensions.h
+c000000004BA16BE60000000000000565
+t1268870118
+s1381
+i<Foundation/Foundation.h>
+
+N/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/TouchJSON/Extensions/NSCharacterSet_Extensions.m
+c000000004BA16BE6000000000000071C
+t1268870118
+s1820
+i"NSCharacterSet_Extensions.h"
+
+N/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/TouchJSON/Extensions/NSDictionary_JSONExtensions.h
+c000000004BA16BE60000000000000583
+t1268870118
+s1411
+i<Foundation/Foundation.h>
+
+N/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/TouchJSON/Extensions/NSDictionary_JSONExtensions.m
+c000000004BA16BE600000000000005FE
+t1268870118
+s1534
+i"NSDictionary_JSONExtensions.h"
+i"CJSONDeserializer.h"
+
+N/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/TouchJSON/Extensions/NSScanner_Extensions.h
+c000000004BA16BE60000000000000641
+t1268870118
+s1601
+i<Foundation/Foundation.h>
+
+N/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/TouchJSON/Extensions/NSScanner_Extensions.m
+c000000004BA16BE60000000000000D50
+t1268870118
+s3408
+i"NSScanner_Extensions.h"
+i"NSCharacterSet_Extensions.h"
+
+N/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/TouchJSON/JSON/CJSONDeserializer.h
+c000000004BA16BE60000000000000766
+t1268870118
+s1894
+i<Foundation/Foundation.h>
+
+N/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/TouchJSON/JSON/CJSONDeserializer.m
+c000000004BA16BE600000000000009C2
+t1268870118
+s2498
+i"CJSONDeserializer.h"
+i"CJSONScanner.h"
+i"CDataScanner.h"
+
+N/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/TouchJSON/JSON/CJSONScanner.h
+c000000004BA16BE60000000000000700
+t1268870118
+s1792
+i"CDataScanner.h"
+
+N/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/TouchJSON/JSON/CJSONScanner.m
+c000000004BA16BE600000000000038D4
+t1268870118
+s14548
+i"CJSONScanner.h"
+i"NSCharacterSet_Extensions.h"
+i"CDataScanner_Extensions.h"
+
+N/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/TouchJSON/JSON/CJSONSerializer.h
+c000000004BA16BE6000000000000066A
+t1268870118
+s1642
+i<Foundation/Foundation.h>
+
+N/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/TouchJSON/JSON/CJSONSerializer.m
+c000000004BA16BE600000000000016F0
+t1268870118
+s5872
+i"CJSONSerializer.h"
+
+N/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/cocoslive/CLScoreServerPost.h
+c000000004BA16BE70000000000000DA3
+t1268870119
+s3491
+i<UIKit/UIKit.h>
+i<CommonCrypto/CommonDigest.h>
+i"cocoslive.h"
+
+N/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/cocoslive/CLScoreServerPost.m
+c000000004BA16BE700000000000024AC
+t1268870119
+s9388
+i"CLScoreServerPost.h"
+i"ccMacros.h"
+
+N/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/cocoslive/CLScoreServerRequest.h
+c000000004BA16BE70000000000000DAE
+t1268870119
+s3502
+i<UIKit/UIKit.h>
+i"cocoslive.h"
+
+N/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/cocoslive/CLScoreServerRequest.m
+c000000004BA16BE70000000000001A44
+t1268870119
+s6724
+i"CJSONDeserializer.h"
+i"CLScoreServerPost.h"
+i"CLScoreServerRequest.h"
+i"ccMacros.h"
+
+N/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/cocoslive/cocoslive.h
+c000000004BA16BE7000000000000028F
+t1268870119
+s655
+i"CLScoreServerPost.h"
+i"CLScoreServerRequest.h"
+
+N/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/cocoslive/cocoslive.m
+c000000004BA16BE700000000000001EB
+t1268870119
+s491
+i<UIKit/UIKit.h>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies316648853#316648853#0(0"0(0#1#0"8615337536#0"0#
+
+CCompileC "build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CDAudioManager.o" "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/CocosDenshion/CDAudioManager.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s316648860.755336
+e316648862.744968
+r1
+xCompileC
+xbuild/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CDAudioManager.o
+x/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/CocosDenshion/CDAudioManager.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@139"Compile /Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/CocosDenshion/CDAudioManager.m316648860#316648862#0(0"0(0#0#131"/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/CocosDenshion/CDAudioManager.m8635680768#2410"    cd "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -funroll-loops -gdwarf-2 -mno-thumb -miphoneos-version-min=3.0 -iquote "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/cocos2d libraries-generated-files.hmap" "-I/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/cocos2d libraries-own-target-headers.hmap" "-I/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/cocos2d libraries-all-target-headers.hmap" -iquote "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/cocos2d libraries-project-headers.hmap" "-F/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Release-iphoneos" "-I/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Release-iphoneos/include" "-I/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/DerivedSources/armv6" "-I/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/DerivedSources" -c "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/CocosDenshion/CDAudioManager.m" -o "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CDAudioManager.o"0#
+
+CCompileC "build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CDataScanner.o" "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/TouchJSON/CDataScanner.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s316648855.743480
+e316648856.360507
+r1
+xCompileC
+xbuild/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CDataScanner.o
+x/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/TouchJSON/CDataScanner.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@133"Compile /Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/TouchJSON/CDataScanner.m316648855#316648856#0(0"0(0#0#125"/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/TouchJSON/CDataScanner.m8608255712#2402"    cd "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -funroll-loops -gdwarf-2 -mno-thumb -miphoneos-version-min=3.0 -iquote "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/cocos2d libraries-generated-files.hmap" "-I/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/cocos2d libraries-own-target-headers.hmap" "-I/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/cocos2d libraries-all-target-headers.hmap" -iquote "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/cocos2d libraries-project-headers.hmap" "-F/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Release-iphoneos" "-I/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Release-iphoneos/include" "-I/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/DerivedSources/armv6" "-I/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/DerivedSources" -c "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/TouchJSON/CDataScanner.m" -o "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CDataScanner.o"0#
+
+CCompileC "build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CDataScanner_Extensions.o" "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/TouchJSON/Extensions/CDataScanner_Extensions.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s316648856.268875
+e316648856.595749
+r1
+xCompileC
+xbuild/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CDataScanner_Extensions.o
+x/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/TouchJSON/Extensions/CDataScanner_Extensions.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@155"Compile /Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/TouchJSON/Extensions/CDataScanner_Extensions.m316648856#316648856#0(0"0(0#0#147"/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/TouchJSON/Extensions/CDataScanner_Extensions.m8605301248#2435"    cd "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -funroll-loops -gdwarf-2 -mno-thumb -miphoneos-version-min=3.0 -iquote "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/cocos2d libraries-generated-files.hmap" "-I/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/cocos2d libraries-own-target-headers.hmap" "-I/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/cocos2d libraries-all-target-headers.hmap" -iquote "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/cocos2d libraries-project-headers.hmap" "-F/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Release-iphoneos" "-I/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Release-iphoneos/include" "-I/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/DerivedSources/armv6" "-I/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/DerivedSources" -c "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/TouchJSON/Extensions/CDataScanner_Extensions.m" -o "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CDataScanner_Extensions.o"0#
+
+CCompileC "build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CJSONDeserializer.o" "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/TouchJSON/JSON/CJSONDeserializer.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s316648856.946723
+e316648857.378724
+r1
+xCompileC
+xbuild/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CJSONDeserializer.o
+x/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/TouchJSON/JSON/CJSONDeserializer.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@143"Compile /Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/TouchJSON/JSON/CJSONDeserializer.m316648856#316648857#0(0"0(0#0#135"/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/TouchJSON/JSON/CJSONDeserializer.m8604557408#2417"    cd "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -funroll-loops -gdwarf-2 -mno-thumb -miphoneos-version-min=3.0 -iquote "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/cocos2d libraries-generated-files.hmap" "-I/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/cocos2d libraries-own-target-headers.hmap" "-I/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/cocos2d libraries-all-target-headers.hmap" -iquote "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/cocos2d libraries-project-headers.hmap" "-F/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Release-iphoneos" "-I/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Release-iphoneos/include" "-I/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/DerivedSources/armv6" "-I/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/DerivedSources" -c "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/TouchJSON/JSON/CJSONDeserializer.m" -o "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CJSONDeserializer.o"0#
+
+CCompileC "build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CJSONScanner.o" "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/TouchJSON/JSON/CJSONScanner.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s316648857.299741
+e316648858.416811
+r1
+xCompileC
+xbuild/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CJSONScanner.o
+x/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/TouchJSON/JSON/CJSONScanner.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@138"Compile /Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/TouchJSON/JSON/CJSONScanner.m316648857#316648858#0(0"0(0#0#130"/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/TouchJSON/JSON/CJSONScanner.m8611889888#2407"    cd "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -funroll-loops -gdwarf-2 -mno-thumb -miphoneos-version-min=3.0 -iquote "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/cocos2d libraries-generated-files.hmap" "-I/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/cocos2d libraries-own-target-headers.hmap" "-I/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/cocos2d libraries-all-target-headers.hmap" -iquote "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/cocos2d libraries-project-headers.hmap" "-F/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Release-iphoneos" "-I/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Release-iphoneos/include" "-I/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/DerivedSources/armv6" "-I/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/DerivedSources" -c "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/TouchJSON/JSON/CJSONScanner.m" -o "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CJSONScanner.o"0#
+
+CCompileC "build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CJSONSerializer.o" "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/TouchJSON/JSON/CJSONSerializer.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s316648857.378841
+e316648858.010915
+r1
+xCompileC
+xbuild/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CJSONSerializer.o
+x/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/TouchJSON/JSON/CJSONSerializer.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@141"Compile /Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/TouchJSON/JSON/CJSONSerializer.m316648857#316648858#0(0"0(0#0#133"/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/TouchJSON/JSON/CJSONSerializer.m8624400032#2413"    cd "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -funroll-loops -gdwarf-2 -mno-thumb -miphoneos-version-min=3.0 -iquote "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/cocos2d libraries-generated-files.hmap" "-I/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/cocos2d libraries-own-target-headers.hmap" "-I/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/cocos2d libraries-all-target-headers.hmap" -iquote "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/cocos2d libraries-project-headers.hmap" "-F/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Release-iphoneos" "-I/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Release-iphoneos/include" "-I/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/DerivedSources/armv6" "-I/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/DerivedSources" -c "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/TouchJSON/JSON/CJSONSerializer.m" -o "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CJSONSerializer.o"0#
+
+CCompileC "build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CLScoreServerPost.o" "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/cocoslive/CLScoreServerPost.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s316648858.416925
+e316648859.629714
+r1
+xCompileC
+xbuild/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CLScoreServerPost.o
+x/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/cocoslive/CLScoreServerPost.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@138"Compile /Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/cocoslive/CLScoreServerPost.m316648858#316648859#0(0"0(0#0#130"/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/cocoslive/CLScoreServerPost.m8648973888#2412"    cd "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -funroll-loops -gdwarf-2 -mno-thumb -miphoneos-version-min=3.0 -iquote "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/cocos2d libraries-generated-files.hmap" "-I/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/cocos2d libraries-own-target-headers.hmap" "-I/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/cocos2d libraries-all-target-headers.hmap" -iquote "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/cocos2d libraries-project-headers.hmap" "-F/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Release-iphoneos" "-I/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Release-iphoneos/include" "-I/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/DerivedSources/armv6" "-I/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/DerivedSources" -c "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/cocoslive/CLScoreServerPost.m" -o "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CLScoreServerPost.o"0#
+
+CCompileC "build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CLScoreServerRequest.o" "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/cocoslive/CLScoreServerRequest.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s316648859.629955
+e316648860.329814
+r1
+xCompileC
+xbuild/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CLScoreServerRequest.o
+x/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/cocoslive/CLScoreServerRequest.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@141"Compile /Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/cocoslive/CLScoreServerRequest.m316648859#316648860#0(0"0(0#0#133"/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/cocoslive/CLScoreServerRequest.m8662355616#2418"    cd "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -funroll-loops -gdwarf-2 -mno-thumb -miphoneos-version-min=3.0 -iquote "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/cocos2d libraries-generated-files.hmap" "-I/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/cocos2d libraries-own-target-headers.hmap" "-I/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/cocos2d libraries-all-target-headers.hmap" -iquote "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/cocos2d libraries-project-headers.hmap" "-F/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Release-iphoneos" "-I/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Release-iphoneos/include" "-I/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/DerivedSources/armv6" "-I/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/DerivedSources" -c "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/cocoslive/CLScoreServerRequest.m" -o "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CLScoreServerRequest.o"0#
+
+CCompileC "build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CocosDenshion.o" "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/CocosDenshion/CocosDenshion.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s316648860.792910
+e316648862.462445
+r1
+xCompileC
+xbuild/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CocosDenshion.o
+x/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/CocosDenshion/CocosDenshion.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@138"Compile /Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/CocosDenshion/CocosDenshion.m316648860#316648862#0(0"0(0#0#130"/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/CocosDenshion/CocosDenshion.m8651476896#2408"    cd "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -funroll-loops -gdwarf-2 -mno-thumb -miphoneos-version-min=3.0 -iquote "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/cocos2d libraries-generated-files.hmap" "-I/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/cocos2d libraries-own-target-headers.hmap" "-I/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/cocos2d libraries-all-target-headers.hmap" -iquote "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/cocos2d libraries-project-headers.hmap" "-F/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Release-iphoneos" "-I/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Release-iphoneos/include" "-I/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/DerivedSources/armv6" "-I/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/DerivedSources" -c "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/CocosDenshion/CocosDenshion.m" -o "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CocosDenshion.o"0#
+
+CCompileC "build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/FontLabel.o" "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/FontLabel/FontLabel.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s316648853.138952
+e316648854.709518
+r1
+xCompileC
+xbuild/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/FontLabel.o
+x/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/FontLabel/FontLabel.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@130"Compile /Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/FontLabel/FontLabel.m316648853#316648854#0(0"0(0#0#122"/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/FontLabel/FontLabel.m8649232544#2396"    cd "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -funroll-loops -gdwarf-2 -mno-thumb -miphoneos-version-min=3.0 -iquote "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/cocos2d libraries-generated-files.hmap" "-I/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/cocos2d libraries-own-target-headers.hmap" "-I/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/cocos2d libraries-all-target-headers.hmap" -iquote "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/cocos2d libraries-project-headers.hmap" "-F/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Release-iphoneos" "-I/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Release-iphoneos/include" "-I/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/DerivedSources/armv6" "-I/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/DerivedSources" -c "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/FontLabel/FontLabel.m" -o "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/FontLabel.o"0#
+
+CCompileC "build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/FontLabelStringDrawing.o" "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/FontLabel/FontLabelStringDrawing.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s316648853.141292
+e316648855.743363
+r1
+xCompileC
+xbuild/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/FontLabelStringDrawing.o
+x/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/FontLabel/FontLabelStringDrawing.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@143"Compile /Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/FontLabel/FontLabelStringDrawing.m316648853#316648855#0(0"0(0#0#135"/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/FontLabel/FontLabelStringDrawing.m8649071072#2422"    cd "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -funroll-loops -gdwarf-2 -mno-thumb -miphoneos-version-min=3.0 -iquote "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/cocos2d libraries-generated-files.hmap" "-I/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/cocos2d libraries-own-target-headers.hmap" "-I/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/cocos2d libraries-all-target-headers.hmap" -iquote "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/cocos2d libraries-project-headers.hmap" "-F/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Release-iphoneos" "-I/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Release-iphoneos/include" "-I/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/DerivedSources/armv6" "-I/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/DerivedSources" -c "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/FontLabel/FontLabelStringDrawing.m" -o "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/FontLabelStringDrawing.o"0#
+
+CCompileC "build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/FontManager.o" "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/FontLabel/FontManager.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s316648854.709767
+e316648855.361094
+r1
+xCompileC
+xbuild/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/FontManager.o
+x/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/FontLabel/FontManager.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@132"Compile /Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/FontLabel/FontManager.m316648854#316648855#0(0"0(0#0#124"/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/FontLabel/FontManager.m8630450528#2400"    cd "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -funroll-loops -gdwarf-2 -mno-thumb -miphoneos-version-min=3.0 -iquote "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/cocos2d libraries-generated-files.hmap" "-I/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/cocos2d libraries-own-target-headers.hmap" "-I/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/cocos2d libraries-all-target-headers.hmap" -iquote "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/cocos2d libraries-project-headers.hmap" "-F/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Release-iphoneos" "-I/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Release-iphoneos/include" "-I/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/DerivedSources/armv6" "-I/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/DerivedSources" -c "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/FontLabel/FontManager.m" -o "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/FontManager.o"0#
+
+CCompileC "build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/NSCharacterSet_Extensions.o" "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/TouchJSON/Extensions/NSCharacterSet_Extensions.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s316648856.360637
+e316648856.781536
+r1
+xCompileC
+xbuild/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/NSCharacterSet_Extensions.o
+x/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/TouchJSON/Extensions/NSCharacterSet_Extensions.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@157"Compile /Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/TouchJSON/Extensions/NSCharacterSet_Extensions.m316648856#316648856#0(0"0(0#0#149"/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/TouchJSON/Extensions/NSCharacterSet_Extensions.m8608078752#2439"    cd "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -funroll-loops -gdwarf-2 -mno-thumb -miphoneos-version-min=3.0 -iquote "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/cocos2d libraries-generated-files.hmap" "-I/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/cocos2d libraries-own-target-headers.hmap" "-I/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/cocos2d libraries-all-target-headers.hmap" -iquote "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/cocos2d libraries-project-headers.hmap" "-F/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Release-iphoneos" "-I/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Release-iphoneos/include" "-I/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/DerivedSources/armv6" "-I/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/DerivedSources" -c "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/TouchJSON/Extensions/NSCharacterSet_Extensions.m" -o "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/NSCharacterSet_Extensions.o"0#
+
+CCompileC "build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/NSDictionary_JSONExtensions.o" "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/TouchJSON/Extensions/NSDictionary_JSONExtensions.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s316648856.595862
+e316648856.946596
+r1
+xCompileC
+xbuild/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/NSDictionary_JSONExtensions.o
+x/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/TouchJSON/Extensions/NSDictionary_JSONExtensions.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@159"Compile /Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/TouchJSON/Extensions/NSDictionary_JSONExtensions.m316648856#316648856#0(0"0(0#0#151"/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/TouchJSON/Extensions/NSDictionary_JSONExtensions.m8648423168#2443"    cd "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -funroll-loops -gdwarf-2 -mno-thumb -miphoneos-version-min=3.0 -iquote "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/cocos2d libraries-generated-files.hmap" "-I/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/cocos2d libraries-own-target-headers.hmap" "-I/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/cocos2d libraries-all-target-headers.hmap" -iquote "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/cocos2d libraries-project-headers.hmap" "-F/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Release-iphoneos" "-I/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Release-iphoneos/include" "-I/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/DerivedSources/armv6" "-I/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/DerivedSources" -c "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/TouchJSON/Extensions/NSDictionary_JSONExtensions.m" -o "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/NSDictionary_JSONExtensions.o"0#
+
+CCompileC "build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/NSScanner_Extensions.o" "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/TouchJSON/Extensions/NSScanner_Extensions.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s316648856.781664
+e316648857.299540
+r1
+xCompileC
+xbuild/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/NSScanner_Extensions.o
+x/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/TouchJSON/Extensions/NSScanner_Extensions.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@152"Compile /Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/TouchJSON/Extensions/NSScanner_Extensions.m316648856#316648857#0(0"0(0#0#144"/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/TouchJSON/Extensions/NSScanner_Extensions.m8598684800#2429"    cd "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -funroll-loops -gdwarf-2 -mno-thumb -miphoneos-version-min=3.0 -iquote "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/cocos2d libraries-generated-files.hmap" "-I/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/cocos2d libraries-own-target-headers.hmap" "-I/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/cocos2d libraries-all-target-headers.hmap" -iquote "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/cocos2d libraries-project-headers.hmap" "-F/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Release-iphoneos" "-I/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Release-iphoneos/include" "-I/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/DerivedSources/armv6" "-I/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/DerivedSources" -c "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/TouchJSON/Extensions/NSScanner_Extensions.m" -o "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/NSScanner_Extensions.o"0#
+
+CCompileC "build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/SimpleAudioEngine.o" "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/CocosDenshion/SimpleAudioEngine.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s316648862.462709
+e316648863.589824
+r1
+xCompileC
+xbuild/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/SimpleAudioEngine.o
+x/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/CocosDenshion/SimpleAudioEngine.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@142"Compile /Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/CocosDenshion/SimpleAudioEngine.m316648862#316648863#0(0"0(0#0#134"/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/CocosDenshion/SimpleAudioEngine.m8624393472#2416"    cd "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -funroll-loops -gdwarf-2 -mno-thumb -miphoneos-version-min=3.0 -iquote "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/cocos2d libraries-generated-files.hmap" "-I/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/cocos2d libraries-own-target-headers.hmap" "-I/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/cocos2d libraries-all-target-headers.hmap" -iquote "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/cocos2d libraries-project-headers.hmap" "-F/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Release-iphoneos" "-I/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Release-iphoneos/include" "-I/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/DerivedSources/armv6" "-I/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/DerivedSources" -c "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/CocosDenshion/SimpleAudioEngine.m" -o "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/SimpleAudioEngine.o"0#
+
+CCompileC "build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/ZAttributedString.o" "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/FontLabel/ZAttributedString.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s316648858.011176
+e316648860.755193
+r1
+xCompileC
+xbuild/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/ZAttributedString.o
+x/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/FontLabel/ZAttributedString.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@138"Compile /Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/FontLabel/ZAttributedString.m316648858#316648860#0(0"0(0#0#130"/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/FontLabel/ZAttributedString.m8606504800#2412"    cd "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -funroll-loops -gdwarf-2 -mno-thumb -miphoneos-version-min=3.0 -iquote "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/cocos2d libraries-generated-files.hmap" "-I/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/cocos2d libraries-own-target-headers.hmap" "-I/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/cocos2d libraries-all-target-headers.hmap" -iquote "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/cocos2d libraries-project-headers.hmap" "-F/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Release-iphoneos" "-I/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Release-iphoneos/include" "-I/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/DerivedSources/armv6" "-I/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/DerivedSources" -c "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/FontLabel/ZAttributedString.m" -o "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/ZAttributedString.o"0#
+
+CCompileC "build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/ZFont.o" "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/FontLabel/ZFont.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s316648855.361211
+e316648856.268611
+r1
+xCompileC
+xbuild/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/ZFont.o
+x/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/FontLabel/ZFont.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@126"Compile /Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/FontLabel/ZFont.m316648855#316648856#0(0"0(0#0#118"/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/FontLabel/ZFont.m8648060864#2388"    cd "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -funroll-loops -gdwarf-2 -mno-thumb -miphoneos-version-min=3.0 -iquote "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/cocos2d libraries-generated-files.hmap" "-I/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/cocos2d libraries-own-target-headers.hmap" "-I/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/cocos2d libraries-all-target-headers.hmap" -iquote "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/cocos2d libraries-project-headers.hmap" "-F/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Release-iphoneos" "-I/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Release-iphoneos/include" "-I/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/DerivedSources/armv6" "-I/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/DerivedSources" -c "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/FontLabel/ZFont.m" -o "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/ZFont.o"0#
+
+CCompileC "build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/cocoslive.o" "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/cocoslive/cocoslive.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s316648860.329932
+e316648860.792788
+r1
+xCompileC
+xbuild/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/cocoslive.o
+x/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/cocoslive/cocoslive.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@130"Compile /Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/cocoslive/cocoslive.m316648860#316648860#0(0"0(0#0#122"/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/cocoslive/cocoslive.m8610961856#2396"    cd "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -funroll-loops -gdwarf-2 -mno-thumb -miphoneos-version-min=3.0 -iquote "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/cocos2d libraries-generated-files.hmap" "-I/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/cocos2d libraries-own-target-headers.hmap" "-I/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/cocos2d libraries-all-target-headers.hmap" -iquote "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/cocos2d libraries-project-headers.hmap" "-F/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Release-iphoneos" "-I/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Release-iphoneos/include" "-I/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/DerivedSources/armv6" "-I/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/DerivedSources" -c "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/cocoslive/cocoslive.m" -o "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/cocoslive.o"0#
+
+CCompileC "build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/CDAudioManager.o" "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/CocosDenshion/CDAudioManager.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+s316648868.756560
+e316648869.728953
+r1
+xCompileC
+xbuild/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/CDAudioManager.o
+x/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/CocosDenshion/CDAudioManager.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@139"Compile /Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/CocosDenshion/CDAudioManager.m316648868#316648869#0(0"0(0#0#131"/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/CocosDenshion/CDAudioManager.m8670250656#2410"    cd "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -funroll-loops -gdwarf-2 -mno-thumb -miphoneos-version-min=3.0 -iquote "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/cocos2d libraries-generated-files.hmap" "-I/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/cocos2d libraries-own-target-headers.hmap" "-I/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/cocos2d libraries-all-target-headers.hmap" -iquote "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/cocos2d libraries-project-headers.hmap" "-F/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Release-iphoneos" "-I/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Release-iphoneos/include" "-I/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/DerivedSources/armv7" "-I/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/DerivedSources" -c "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/CocosDenshion/CDAudioManager.m" -o "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/CDAudioManager.o"0#
+
+CCompileC "build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/CDataScanner.o" "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/TouchJSON/CDataScanner.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+s316648865.481410
+e316648866.255862
+r1
+xCompileC
+xbuild/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/CDataScanner.o
+x/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/TouchJSON/CDataScanner.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@133"Compile /Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/TouchJSON/CDataScanner.m316648865#316648866#0(0"0(0#0#125"/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/TouchJSON/CDataScanner.m8608740224#2402"    cd "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -funroll-loops -gdwarf-2 -mno-thumb -miphoneos-version-min=3.0 -iquote "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/cocos2d libraries-generated-files.hmap" "-I/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/cocos2d libraries-own-target-headers.hmap" "-I/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/cocos2d libraries-all-target-headers.hmap" -iquote "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/cocos2d libraries-project-headers.hmap" "-F/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Release-iphoneos" "-I/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Release-iphoneos/include" "-I/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/DerivedSources/armv7" "-I/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/DerivedSources" -c "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/TouchJSON/CDataScanner.m" -o "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/CDataScanner.o"0#
+
+CCompileC "build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/CDataScanner_Extensions.o" "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/TouchJSON/Extensions/CDataScanner_Extensions.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+s316648865.909736
+e316648866.226603
+r1
+xCompileC
+xbuild/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/CDataScanner_Extensions.o
+x/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/TouchJSON/Extensions/CDataScanner_Extensions.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@155"Compile /Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/TouchJSON/Extensions/CDataScanner_Extensions.m316648865#316648866#0(0"0(0#0#147"/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/TouchJSON/Extensions/CDataScanner_Extensions.m8689030592#2435"    cd "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -funroll-loops -gdwarf-2 -mno-thumb -miphoneos-version-min=3.0 -iquote "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/cocos2d libraries-generated-files.hmap" "-I/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/cocos2d libraries-own-target-headers.hmap" "-I/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/cocos2d libraries-all-target-headers.hmap" -iquote "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/cocos2d libraries-project-headers.hmap" "-F/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Release-iphoneos" "-I/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Release-iphoneos/include" "-I/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/DerivedSources/armv7" "-I/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/DerivedSources" -c "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/TouchJSON/Extensions/CDataScanner_Extensions.m" -o "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/CDataScanner_Extensions.o"0#
+
+CCompileC "build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/CJSONDeserializer.o" "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/TouchJSON/JSON/CJSONDeserializer.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+s316648866.566294
+e316648866.768035
+r1
+xCompileC
+xbuild/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/CJSONDeserializer.o
+x/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/TouchJSON/JSON/CJSONDeserializer.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@143"Compile /Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/TouchJSON/JSON/CJSONDeserializer.m316648866#316648866#0(0"0(0#0#135"/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/TouchJSON/JSON/CJSONDeserializer.m8684358912#2417"    cd "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -funroll-loops -gdwarf-2 -mno-thumb -miphoneos-version-min=3.0 -iquote "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/cocos2d libraries-generated-files.hmap" "-I/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/cocos2d libraries-own-target-headers.hmap" "-I/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/cocos2d libraries-all-target-headers.hmap" -iquote "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/cocos2d libraries-project-headers.hmap" "-F/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Release-iphoneos" "-I/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Release-iphoneos/include" "-I/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/DerivedSources/armv7" "-I/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/DerivedSources" -c "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/TouchJSON/JSON/CJSONDeserializer.m" -o "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/CJSONDeserializer.o"0#
+
+CCompileC "build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/CJSONScanner.o" "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/TouchJSON/JSON/CJSONScanner.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+s316648866.761514
+e316648867.285050
+r1
+xCompileC
+xbuild/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/CJSONScanner.o
+x/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/TouchJSON/JSON/CJSONScanner.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@138"Compile /Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/TouchJSON/JSON/CJSONScanner.m316648866#316648867#0(0"0(0#0#130"/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/TouchJSON/JSON/CJSONScanner.m8647393824#2407"    cd "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -funroll-loops -gdwarf-2 -mno-thumb -miphoneos-version-min=3.0 -iquote "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/cocos2d libraries-generated-files.hmap" "-I/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/cocos2d libraries-own-target-headers.hmap" "-I/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/cocos2d libraries-all-target-headers.hmap" -iquote "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/cocos2d libraries-project-headers.hmap" "-F/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Release-iphoneos" "-I/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Release-iphoneos/include" "-I/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/DerivedSources/armv7" "-I/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/DerivedSources" -c "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/TouchJSON/JSON/CJSONScanner.m" -o "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/CJSONScanner.o"0#
+
+CCompileC "build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/CJSONSerializer.o" "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/TouchJSON/JSON/CJSONSerializer.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+s316648866.768158
+e316648867.076218
+r1
+xCompileC
+xbuild/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/CJSONSerializer.o
+x/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/TouchJSON/JSON/CJSONSerializer.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@141"Compile /Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/TouchJSON/JSON/CJSONSerializer.m316648866#316648867#0(0"0(0#0#133"/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/TouchJSON/JSON/CJSONSerializer.m8635938400#2413"    cd "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -funroll-loops -gdwarf-2 -mno-thumb -miphoneos-version-min=3.0 -iquote "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/cocos2d libraries-generated-files.hmap" "-I/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/cocos2d libraries-own-target-headers.hmap" "-I/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/cocos2d libraries-all-target-headers.hmap" -iquote "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/cocos2d libraries-project-headers.hmap" "-F/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Release-iphoneos" "-I/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Release-iphoneos/include" "-I/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/DerivedSources/armv7" "-I/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/DerivedSources" -c "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/TouchJSON/JSON/CJSONSerializer.m" -o "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/CJSONSerializer.o"0#
+
+CCompileC "build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/CLScoreServerPost.o" "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/cocoslive/CLScoreServerPost.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+s316648867.285174
+e316648867.818622
+r1
+xCompileC
+xbuild/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/CLScoreServerPost.o
+x/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/cocoslive/CLScoreServerPost.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@138"Compile /Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/cocoslive/CLScoreServerPost.m316648867#316648867#0(0"0(0#0#130"/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/cocoslive/CLScoreServerPost.m8629692288#2412"    cd "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -funroll-loops -gdwarf-2 -mno-thumb -miphoneos-version-min=3.0 -iquote "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/cocos2d libraries-generated-files.hmap" "-I/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/cocos2d libraries-own-target-headers.hmap" "-I/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/cocos2d libraries-all-target-headers.hmap" -iquote "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/cocos2d libraries-project-headers.hmap" "-F/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Release-iphoneos" "-I/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Release-iphoneos/include" "-I/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/DerivedSources/armv7" "-I/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/DerivedSources" -c "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/cocoslive/CLScoreServerPost.m" -o "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/CLScoreServerPost.o"0#
+
+CCompileC "build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/CLScoreServerRequest.o" "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/cocoslive/CLScoreServerRequest.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+s316648867.818879
+e316648868.558247
+r1
+xCompileC
+xbuild/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/CLScoreServerRequest.o
+x/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/cocoslive/CLScoreServerRequest.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@141"Compile /Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/cocoslive/CLScoreServerRequest.m316648867#316648868#0(0"0(0#0#133"/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/cocoslive/CLScoreServerRequest.m8669016384#2418"    cd "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -funroll-loops -gdwarf-2 -mno-thumb -miphoneos-version-min=3.0 -iquote "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/cocos2d libraries-generated-files.hmap" "-I/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/cocos2d libraries-own-target-headers.hmap" "-I/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/cocos2d libraries-all-target-headers.hmap" -iquote "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/cocos2d libraries-project-headers.hmap" "-F/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Release-iphoneos" "-I/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Release-iphoneos/include" "-I/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/DerivedSources/armv7" "-I/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/DerivedSources" -c "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/cocoslive/CLScoreServerRequest.m" -o "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/CLScoreServerRequest.o"0#
+
+CCompileC "build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/CocosDenshion.o" "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/CocosDenshion/CocosDenshion.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+s316648868.887096
+e316648869.778921
+r1
+xCompileC
+xbuild/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/CocosDenshion.o
+x/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/CocosDenshion/CocosDenshion.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@138"Compile /Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/CocosDenshion/CocosDenshion.m316648868#316648869#0(0"0(0#0#130"/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/CocosDenshion/CocosDenshion.m8670127104#2408"    cd "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -funroll-loops -gdwarf-2 -mno-thumb -miphoneos-version-min=3.0 -iquote "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/cocos2d libraries-generated-files.hmap" "-I/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/cocos2d libraries-own-target-headers.hmap" "-I/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/cocos2d libraries-all-target-headers.hmap" -iquote "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/cocos2d libraries-project-headers.hmap" "-F/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Release-iphoneos" "-I/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Release-iphoneos/include" "-I/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/DerivedSources/armv7" "-I/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/DerivedSources" -c "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/CocosDenshion/CocosDenshion.m" -o "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/CocosDenshion.o"0#
+
+CCompileC "build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/FontLabel.o" "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/FontLabel/FontLabel.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+s316648862.745090
+e316648863.895379
+r1
+xCompileC
+xbuild/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/FontLabel.o
+x/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/FontLabel/FontLabel.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@130"Compile /Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/FontLabel/FontLabel.m316648862#316648863#0(0"0(0#0#122"/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/FontLabel/FontLabel.m8634611904#2396"    cd "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -funroll-loops -gdwarf-2 -mno-thumb -miphoneos-version-min=3.0 -iquote "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/cocos2d libraries-generated-files.hmap" "-I/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/cocos2d libraries-own-target-headers.hmap" "-I/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/cocos2d libraries-all-target-headers.hmap" -iquote "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/cocos2d libraries-project-headers.hmap" "-F/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Release-iphoneos" "-I/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Release-iphoneos/include" "-I/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/DerivedSources/armv7" "-I/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/DerivedSources" -c "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/FontLabel/FontLabel.m" -o "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/FontLabel.o"0#
+
+CCompileC "build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/FontLabelStringDrawing.o" "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/FontLabel/FontLabelStringDrawing.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+s316648863.666611
+e316648865.909610
+r1
+xCompileC
+xbuild/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/FontLabelStringDrawing.o
+x/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/FontLabel/FontLabelStringDrawing.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@143"Compile /Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/FontLabel/FontLabelStringDrawing.m316648863#316648865#0(0"0(0#0#135"/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/FontLabel/FontLabelStringDrawing.m8635077280#2422"    cd "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -funroll-loops -gdwarf-2 -mno-thumb -miphoneos-version-min=3.0 -iquote "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/cocos2d libraries-generated-files.hmap" "-I/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/cocos2d libraries-own-target-headers.hmap" "-I/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/cocos2d libraries-all-target-headers.hmap" -iquote "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/cocos2d libraries-project-headers.hmap" "-F/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Release-iphoneos" "-I/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Release-iphoneos/include" "-I/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/DerivedSources/armv7" "-I/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/DerivedSources" -c "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/FontLabel/FontLabelStringDrawing.m" -o "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/FontLabelStringDrawing.o"0#
+
+CCompileC "build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/FontManager.o" "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/FontLabel/FontManager.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+s316648863.895493
+e316648864.641598
+r1
+xCompileC
+xbuild/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/FontManager.o
+x/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/FontLabel/FontManager.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@132"Compile /Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/FontLabel/FontManager.m316648863#316648864#0(0"0(0#0#124"/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/FontLabel/FontManager.m8634218016#2400"    cd "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -funroll-loops -gdwarf-2 -mno-thumb -miphoneos-version-min=3.0 -iquote "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/cocos2d libraries-generated-files.hmap" "-I/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/cocos2d libraries-own-target-headers.hmap" "-I/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/cocos2d libraries-all-target-headers.hmap" -iquote "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/cocos2d libraries-project-headers.hmap" "-F/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Release-iphoneos" "-I/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Release-iphoneos/include" "-I/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/DerivedSources/armv7" "-I/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/DerivedSources" -c "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/FontLabel/FontManager.m" -o "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/FontManager.o"0#
+
+CCompileC "build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/NSCharacterSet_Extensions.o" "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/TouchJSON/Extensions/NSCharacterSet_Extensions.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+s316648866.226852
+e316648866.500097
+r1
+xCompileC
+xbuild/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/NSCharacterSet_Extensions.o
+x/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/TouchJSON/Extensions/NSCharacterSet_Extensions.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@157"Compile /Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/TouchJSON/Extensions/NSCharacterSet_Extensions.m316648866#316648866#0(0"0(0#0#149"/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/TouchJSON/Extensions/NSCharacterSet_Extensions.m8636561600#2439"    cd "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -funroll-loops -gdwarf-2 -mno-thumb -miphoneos-version-min=3.0 -iquote "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/cocos2d libraries-generated-files.hmap" "-I/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/cocos2d libraries-own-target-headers.hmap" "-I/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/cocos2d libraries-all-target-headers.hmap" -iquote "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/cocos2d libraries-project-headers.hmap" "-F/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Release-iphoneos" "-I/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Release-iphoneos/include" "-I/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/DerivedSources/armv7" "-I/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/DerivedSources" -c "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/TouchJSON/Extensions/NSCharacterSet_Extensions.m" -o "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/NSCharacterSet_Extensions.o"0#
+
+CCompileC "build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/NSDictionary_JSONExtensions.o" "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/TouchJSON/Extensions/NSDictionary_JSONExtensions.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+s316648866.256067
+e316648866.566159
+r1
+xCompileC
+xbuild/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/NSDictionary_JSONExtensions.o
+x/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/TouchJSON/Extensions/NSDictionary_JSONExtensions.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@159"Compile /Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/TouchJSON/Extensions/NSDictionary_JSONExtensions.m316648866#316648866#0(0"0(0#0#151"/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/TouchJSON/Extensions/NSDictionary_JSONExtensions.m8651078592#2443"    cd "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -funroll-loops -gdwarf-2 -mno-thumb -miphoneos-version-min=3.0 -iquote "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/cocos2d libraries-generated-files.hmap" "-I/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/cocos2d libraries-own-target-headers.hmap" "-I/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/cocos2d libraries-all-target-headers.hmap" -iquote "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/cocos2d libraries-project-headers.hmap" "-F/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Release-iphoneos" "-I/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Release-iphoneos/include" "-I/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/DerivedSources/armv7" "-I/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/DerivedSources" -c "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/TouchJSON/Extensions/NSDictionary_JSONExtensions.m" -o "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/NSDictionary_JSONExtensions.o"0#
+
+CCompileC "build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/NSScanner_Extensions.o" "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/TouchJSON/Extensions/NSScanner_Extensions.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+s316648866.500222
+e316648866.761379
+r1
+xCompileC
+xbuild/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/NSScanner_Extensions.o
+x/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/TouchJSON/Extensions/NSScanner_Extensions.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@152"Compile /Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/TouchJSON/Extensions/NSScanner_Extensions.m316648866#316648866#0(0"0(0#0#144"/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/TouchJSON/Extensions/NSScanner_Extensions.m8647081280#2429"    cd "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -funroll-loops -gdwarf-2 -mno-thumb -miphoneos-version-min=3.0 -iquote "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/cocos2d libraries-generated-files.hmap" "-I/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/cocos2d libraries-own-target-headers.hmap" "-I/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/cocos2d libraries-all-target-headers.hmap" -iquote "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/cocos2d libraries-project-headers.hmap" "-F/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Release-iphoneos" "-I/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Release-iphoneos/include" "-I/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/DerivedSources/armv7" "-I/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/DerivedSources" -c "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/TouchJSON/Extensions/NSScanner_Extensions.m" -o "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/NSScanner_Extensions.o"0#
+
+CCompileC "build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/SimpleAudioEngine.o" "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/CocosDenshion/SimpleAudioEngine.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+s316648869.729211
+e316648870.171484
+r1
+xCompileC
+xbuild/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/SimpleAudioEngine.o
+x/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/CocosDenshion/SimpleAudioEngine.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@142"Compile /Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/CocosDenshion/SimpleAudioEngine.m316648869#316648870#0(0"0(0#0#134"/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/CocosDenshion/SimpleAudioEngine.m8680585056#2416"    cd "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -funroll-loops -gdwarf-2 -mno-thumb -miphoneos-version-min=3.0 -iquote "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/cocos2d libraries-generated-files.hmap" "-I/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/cocos2d libraries-own-target-headers.hmap" "-I/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/cocos2d libraries-all-target-headers.hmap" -iquote "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/cocos2d libraries-project-headers.hmap" "-F/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Release-iphoneos" "-I/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Release-iphoneos/include" "-I/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/DerivedSources/armv7" "-I/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/DerivedSources" -c "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/CocosDenshion/SimpleAudioEngine.m" -o "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/SimpleAudioEngine.o"0#
+
+CCompileC "build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/ZAttributedString.o" "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/FontLabel/ZAttributedString.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+s316648867.076345
+e316648868.756439
+r1
+xCompileC
+xbuild/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/ZAttributedString.o
+x/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/FontLabel/ZAttributedString.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@138"Compile /Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/FontLabel/ZAttributedString.m316648867#316648868#0(0"0(0#0#130"/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/FontLabel/ZAttributedString.m8650655136#2412"    cd "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -funroll-loops -gdwarf-2 -mno-thumb -miphoneos-version-min=3.0 -iquote "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/cocos2d libraries-generated-files.hmap" "-I/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/cocos2d libraries-own-target-headers.hmap" "-I/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/cocos2d libraries-all-target-headers.hmap" -iquote "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/cocos2d libraries-project-headers.hmap" "-F/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Release-iphoneos" "-I/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Release-iphoneos/include" "-I/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/DerivedSources/armv7" "-I/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/DerivedSources" -c "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/FontLabel/ZAttributedString.m" -o "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/ZAttributedString.o"0#
+
+CCompileC "build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/ZFont.o" "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/FontLabel/ZFont.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+s316648864.641859
+e316648865.481283
+r1
+xCompileC
+xbuild/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/ZFont.o
+x/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/FontLabel/ZFont.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@126"Compile /Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/FontLabel/ZFont.m316648864#316648865#0(0"0(0#0#118"/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/FontLabel/ZFont.m8668275968#2388"    cd "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -funroll-loops -gdwarf-2 -mno-thumb -miphoneos-version-min=3.0 -iquote "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/cocos2d libraries-generated-files.hmap" "-I/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/cocos2d libraries-own-target-headers.hmap" "-I/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/cocos2d libraries-all-target-headers.hmap" -iquote "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/cocos2d libraries-project-headers.hmap" "-F/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Release-iphoneos" "-I/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Release-iphoneos/include" "-I/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/DerivedSources/armv7" "-I/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/DerivedSources" -c "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/FontLabel/ZFont.m" -o "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/ZFont.o"0#
+
+CCompileC "build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/cocoslive.o" "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/cocoslive/cocoslive.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+s316648868.558371
+e316648868.886971
+r1
+xCompileC
+xbuild/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/cocoslive.o
+x/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/cocoslive/cocoslive.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@130"Compile /Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/cocoslive/cocoslive.m316648868#316648868#0(0"0(0#0#122"/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/cocoslive/cocoslive.m8670177184#2396"    cd "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -funroll-loops -gdwarf-2 -mno-thumb -miphoneos-version-min=3.0 -iquote "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/cocos2d libraries-generated-files.hmap" "-I/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/cocos2d libraries-own-target-headers.hmap" "-I/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/cocos2d libraries-all-target-headers.hmap" -iquote "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/cocos2d libraries-project-headers.hmap" "-F/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Release-iphoneos" "-I/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Release-iphoneos/include" "-I/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/DerivedSources/armv7" "-I/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/DerivedSources" -c "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/libs/cocoslive/cocoslive.m" -o "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/cocoslive.o"0#
+
+CCreateUniversalBinary "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Release-iphoneos/libcocos2d libraries.a" normal "armv6 armv7"
+s316648870.203043
+e316648870.296883
+r1
+xCreateUniversalBinary
+x/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Release-iphoneos/libcocos2d libraries.a
+xnormal
+xarmv6 armv7
+lSLF07#2@90"CreateUniversalBinary "build/Release-iphoneos/libcocos2d libraries.a" normal "armv6 armv7"316648870#316648870#0(0"0(0#0#107"/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/armv6 armv78663036928#871"    cd "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/libtool -static "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/libcocos2d libraries.a" "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/libcocos2d libraries.a" -o "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Release-iphoneos/libcocos2d libraries.a"0#
+
+CLibtool "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/libcocos2d libraries.a" normal armv6
+s316648863.589935
+e316648863.666452
+r1
+xLibtool
+x/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/libcocos2d libraries.a
+xnormal
+xarmv6
+o/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/libtool: file: /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/usr/lib/libz.dylib is a dynamic library, not added to the static library
+o/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/libtool: file: /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/usr/lib/libz.dylib is a dynamic library, not added to the static library
+lSLF07#2@133"Libtool "build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/libcocos2d libraries.a" normal armv6316648863#316648863#0(430"/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/libtool: file: /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/usr/lib/libz.dylib is a dynamic library, not added to the static library/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/libtool: file: /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/usr/lib/libz.dylib is a dynamic library, not added to the static library0(0#0#0"8623926752#1230"    cd "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball"    setenv IPHONEOS_DEPLOYMENT_TARGET 3.0    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/libtool -static -arch_only armv6 -syslibroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk "-L/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Release-iphoneos" -filelist "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/cocos2d libraries.LinkFileList" -framework AVFoundation -framework AudioToolbox -framework CoreGraphics -framework OpenAL -framework OpenGLES -framework QuartzCore /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/usr/lib/libz.dylib -o "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv6/libcocos2d libraries.a"0#
+
+CLibtool "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/libcocos2d libraries.a" normal armv7
+s316648870.171604
+e316648870.202920
+r1
+xLibtool
+x/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/libcocos2d libraries.a
+xnormal
+xarmv7
+o/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/libtool: file: /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/usr/lib/libz.dylib is a dynamic library, not added to the static library
+o/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/libtool: file: /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/usr/lib/libz.dylib is a dynamic library, not added to the static library
+lSLF07#2@133"Libtool "build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/libcocos2d libraries.a" normal armv7316648870#316648870#0(430"/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/libtool: file: /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/usr/lib/libz.dylib is a dynamic library, not added to the static library/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/libtool: file: /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/usr/lib/libz.dylib is a dynamic library, not added to the static library0(0#0#0"8668245856#1230"    cd "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball"    setenv IPHONEOS_DEPLOYMENT_TARGET 3.0    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/libtool -static -arch_only armv7 -syslibroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk "-L/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Release-iphoneos" -filelist "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/cocos2d libraries.LinkFileList" -framework AVFoundation -framework AudioToolbox -framework CoreGraphics -framework OpenAL -framework OpenGLES -framework QuartzCore /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/usr/lib/libz.dylib -o "/Users/aaronvizzini/Documents/Alternative Visuals Local/iPhone Apps/Wrecking Ball/Wrecking Ball/build/Wrecking Ball.build/Release-iphoneos/cocos2d libraries.build/Objects-normal/armv7/libcocos2d libraries.a"0#
+
